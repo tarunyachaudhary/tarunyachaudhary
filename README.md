@@ -16,7 +16,7 @@
 - 🔭 Currently building a **production-ready Auth API** with Node.js, Redis & JWT
 - 🌱 Learning **Backend Development** — Express, MongoDB, Redis, OTP flows
 - 💬 Ask me about **Node.js, Express.js, JavaScript, Java, React, Python, MySQL,MongoDB,C,HTML,React Native,TypeScript**
-- 📫 Reach me at **tarun9631340115@gmail.com**
+- 📫 Reach me at **tarunyachaudhary8757@gmail.com**
 - 📍 Greater Noida, India
 ---
 
