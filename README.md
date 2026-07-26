@@ -12,16 +12,18 @@
 ---
 
 ### 👨‍💻 About Me
+Backend-leaning full-stack developer focused on building secure, production-ready systems.
 
-- 🔭 Currently building a **production-ready Auth API** with Node.js, Redis & JWT
-- 🌱 Learning **Backend Development** — Express, MongoDB, Redis, OTP flows
-- 💬 Ask me about **Node.js, Express.js, JavaScript, Java, React, Python, MySQL,MongoDB,C,HTML,React Native,TypeScript**
+- 🔭 Currently building a **production-ready Auth API** — JWT auth, OTP flows & Redis-based rate limiting
+- 🛠️ Core stack: **Node.js, Express.js, MongoDB, Redis**
+- 🌱 Deepening my knowledge of **system design, API security & scalable backend architecture**
+- 💻 Also comfortable with **JavaScript, TypeScript, React, Python, Java, C, MySQL**
 - 📫 Reach me at **tarunyachaudhary8757@gmail.com**
 - 📍 Greater Noida, India
+
 ---
 
 ### 🌐 Connect With Me
-
 <div align="left">
   <a href="mailto:tarunyachaudhary8757@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -34,19 +36,48 @@
 ---
 
 ### 🛠️ Languages & Tools
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,js,java,python,c,cpp,react,mongodb,redis,mysql,html,css,git,github,vscode,postman" />
 </div>
 
 ---
 
+### 📊 GitHub Stats
 
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tarunyachaudhary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=tarunyachaudhary&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunyachaudhary&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</div>
 
 ---
 
-### 📌 Featured Projects
+### 🏆 Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tarunyachaudhary&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+</div>
+
+---
+
+<!--
+  OPTIONAL: once you've added .github/workflows/metrics.yml (see setup steps),
+  uncomment the block below. It shows a self-generated stats/streak/trophy
+  image hosted in your own repo, so it never depends on an external server.
+
+### 🔒 Self-Hosted Metrics (always reliable)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tarunyachaudhary/tarunyachaudhary/main/metrics.svg" />
+</div>
+
+---
+-->
+
+### 📌 Featured Projects
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Auth-user-backend](https://github.com/tarunyachaudhary/Auth-user-backend) | Production-level auth API with OTP, JWT, Redis rate limiting | Node.js, Express, MongoDB, Redis |
@@ -57,7 +88,6 @@
 ---
 
 ### 📈 Contribution Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunyachaudhary&theme=tokyo-night&hide_border=true" />
 </div>
