@@ -78,8 +78,9 @@ Backend-leaning full-stack developer focused on building secure, production-read
 ---
 
 ### 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunyachaudhary&theme=tokyo-night&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/tarunyachaudhary/tarunyachaudhary/activity-graph/activity-graph.svg" alt="GitHub Activity Graph" />
 </div>
 
 ---
