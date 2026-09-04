@@ -45,12 +45,12 @@ Backend-leaning full-stack developer focused on building secure, production-read
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tarunyachaudhary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=tarunyachaudhary&theme=tokyonight&hide_border=true" />
+  <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=tarunyachaudhary&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunyachaudhary&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 ---
