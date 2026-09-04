@@ -55,6 +55,10 @@ Backend-leaning full-stack developer focused on building secure, production-read
 
 ---
 
+## 🐍 My GitHub Contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/tarunyachaudhary/tarunyachaudhary/output/github-contribution-grid-snake.svg)
+
 ### 🏆 Trophies
 
 <div align="center">
@@ -63,19 +67,7 @@ Backend-leaning full-stack developer focused on building secure, production-read
 
 ---
 
-<!--
-  OPTIONAL: once you've added .github/workflows/metrics.yml (see setup steps),
-  uncomment the block below. It shows a self-generated stats/streak/trophy
-  image hosted in your own repo, so it never depends on an external server.
 
-### 🔒 Self-Hosted Metrics (always reliable)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tarunyachaudhary/tarunyachaudhary/main/metrics.svg" />
-</div>
-
----
--->
 
 ### 📌 Featured Projects
 | Project | Description | Stack |
