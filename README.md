@@ -59,13 +59,11 @@ Backend-leaning full-stack developer focused on building secure, production-read
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/tarunyachaudhary/tarunyachaudhary/output/github-contribution-grid-snake.svg)
 
-### 🏆 Trophies
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tarunyachaudhary&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+  <img src="./assets/trophy.svg" alt="GitHub Trophies" />
 </div>
-
----
 
 
 
